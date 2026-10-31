@@ -48,6 +48,14 @@
 
 - GitHub: [@urvak-cmyk](https://github.com/urvak-cmyk)
 
+- ---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=urvak-cmyk&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
 ---
 
 <p align="center">
