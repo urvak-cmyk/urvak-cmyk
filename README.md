@@ -18,6 +18,9 @@
 - **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code
+- <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
+</p>
 
 ### 📚 Currently Learning
 
