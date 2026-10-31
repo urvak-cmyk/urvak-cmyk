@@ -21,7 +21,6 @@
 - <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,github,vscode" />
 </p>
-
 ### 📚 Currently Learning
 
 - Data Structures & Algorithms
