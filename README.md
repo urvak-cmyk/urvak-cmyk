@@ -1,6 +1,5 @@
 # Hi, I'm Urva
 
-<h1 align="center">Urva</h1>
 
 <h3 align="center">BS Artificial Intelligence Student | Aspiring Software Developer</h3>
 
