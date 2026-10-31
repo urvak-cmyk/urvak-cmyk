@@ -50,12 +50,12 @@
 
 - ---
 
-### 📊 GitHub Statistics
+
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urvak-cmyk&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urvak-cmyk&show_icons=true&theme=default" width="450" />
 </p>
-
 ---
 
 <p align="center">
