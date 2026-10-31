@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Urva! 👋</h1>
 
-<!--
-**urvak-cmyk/urvak-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">BS Artificial Intelligence Student | Aspiring Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 I'm a BS Artificial Intelligence student.
+- 💻 I'm interested in programming and software development.
+- 🌱 Currently learning Data Structures & Algorithms using Java.
+- 🧠 Exploring Artificial Intelligence and its applications.
+- 🚀 I enjoy learning new technologies and building projects.
+
+### 🛠️ Technical Skills
+
+- **Programming Language:** Java
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Java Concepts
+- Artificial Intelligence
+- Software Development
+
+### 📂 My Projects
+
+- **Retail Inventory and Billing Management System**
+  - A Java-based project developed using Object-Oriented Programming concepts.
+  - Includes product management, order management, billing, and stock alerts.
+
+### 🎯 My Goals
+
+- Strengthen my programming skills.
+- Improve problem-solving abilities.
+- Build practical software projects.
+- Explore the field of Artificial Intelligence.
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [@urvak-cmyk](https://github.com/urvak-cmyk)
+
+---
+
+<p align="center">
+  <i>Always learning, always growing! 🌱</i>
+</p>
