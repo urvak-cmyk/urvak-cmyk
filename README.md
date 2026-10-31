@@ -1,62 +1,72 @@
-<h1 align="center">Hi, I'm Urva! 👋</h1>
+# Hi, I'm Urva
 
-<h3 align="center">BS Artificial Intelligence Student | Aspiring Developer</h3>
+<h1 align="center">Urva</h1>
+
+<h3 align="center">BS Artificial Intelligence Student | Aspiring Software Developer</h3>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 I'm a BS Artificial Intelligence student.
-- 💻 I'm interested in programming and software development.
-- 🌱 Currently learning Data Structures & Algorithms using Java.
-- 🧠 Exploring Artificial Intelligence and its applications.
-- 🚀 I enjoy learning new technologies and building projects.
+- I'm a BS Artificial Intelligence student.
+- Interested in programming and software development.
+- Currently learning Data Structures & Algorithms using Java.
+- Exploring Artificial Intelligence and its applications.
+- Interested in building practical software projects.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
-- **Programming Language:** Java
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
-- <p align="center">
+**Programming Language:** Java
+
+**Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+
+**Database:** MySQL
+
+**Tools:** GitHub, VS Code
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,github,vscode" />
 </p>
-### 📚 Currently Learning
+
+### Currently Learning
 
 - Data Structures & Algorithms
 - Advanced Java Concepts
 - Artificial Intelligence
 - Software Development
 
-### 📂 My Projects
+### Featured Projects
 
-- **Retail Inventory and Billing Management System**
-  - A Java-based project developed using Object-Oriented Programming concepts.
-  - Includes product management, order management, billing, and stock alerts.
+**Retail Inventory and Billing Management System**
 
-### 🎯 My Goals
+- A Java-based project developed using Object-Oriented Programming concepts.
+- Includes product management, order management, billing, and stock alerts.
 
-- Strengthen my programming skills.
+### Career Goals
+
+- Strengthen programming skills.
 - Improve problem-solving abilities.
 - Build practical software projects.
-- Explore the field of Artificial Intelligence.
+- Explore Artificial Intelligence.
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 - GitHub: [@urvak-cmyk](https://github.com/urvak-cmyk)
 
-- ---
+---
 
-
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=urvak-cmyk&show_icons=true&theme=default" width="450" />
 </p>
+
 ---
 
 <p align="center">
-  <i>Always learning, always growing! 🌱</i>
+  <i>Always learning and improving.</i>
 </p>
